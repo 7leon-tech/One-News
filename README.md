@@ -1,5 +1,4 @@
 # One-News
-<hr>
 <b>Link Github :<b> https://github.com/7leon-tech/One-News
 <br>
   <hr>
